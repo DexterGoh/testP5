@@ -33,7 +33,8 @@ public class Student {
 
     }
 
-    void myTest();		
+    void myTest();
+    void myTest2();
    
     void testAll()
  {
